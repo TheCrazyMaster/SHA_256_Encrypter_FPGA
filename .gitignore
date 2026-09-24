@@ -3,6 +3,7 @@
 *.jou
 *.str
 *.pb
+*.xpr
 *.dir/
 .Xil/
 vivado*.zip
