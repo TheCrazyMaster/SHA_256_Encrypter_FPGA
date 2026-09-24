@@ -1,0 +1,21 @@
+# Vivado temporary files and directories
+*.log
+*.jou
+*.str
+*.pb
+*.dir/
+.Xil/
+vivado*.zip
+
+# Simulation outputs
+*.wave
+*.vcd
+*.ghw
+work-obj93.cf
+
+# Vivado project outputs (runs & ip caches)
+/*.runs/
+/*.sim/
+/*.ip_user_files/
+/*.hw/
+/*.cache/
